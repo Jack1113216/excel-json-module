@@ -1,0 +1,16 @@
+{
+  "name": "com.jack.excel-to-json-module",
+  "version": "1.0.2",
+  "displayName": "Excel To Json Module",
+  "description": "...",
+  "unity": "2021.3",
+  "keywords": [
+    "Excel",
+    "To",
+    "Json"
+  ],
+  "author": {
+    "name": "jack",
+    "url": "https://www.unity3d.com"
+  }
+}
